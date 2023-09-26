@@ -1,6 +1,6 @@
 # OwnTracks Tools
 
-This is a fork of the origina repository (https://github.com/owntracks/tools) just to update the script to import Google locations.
+This is a fork of the original repository (https://github.com/owntracks/tools) just to update the script to import Google locations.
 
 ### Google/import-location-history.py
 Reads a JSON export of Google Location History from
